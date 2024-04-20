@@ -4,7 +4,7 @@ organization in ThisBuild := "de.surfice"
 
 version in ThisBuild := "0.1.0-SNAPSHOT"
 
-scalaVersion in ThisBuild := "2.11.12"
+scalaVersion in ThisBuild := "3.4.1"
 
 val Version = new {
   val jna         = "5.5.0"
